@@ -2926,7 +2926,7 @@ function redzlib:MakeWindow(Configs)
 
 		BackgroundTransparency = 1,
 
-		Font = Enum.Font.GothamMedium,
+		Font = Enum.Font.GothamBlack,
 
 		Name = "Title"
 
@@ -5422,3 +5422,4 @@ end
 
 
 return redzlib
+
